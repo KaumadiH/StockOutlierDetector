@@ -1,7 +1,5 @@
 package main.java.com.stockoutlierdetection.model;
 
-import main.java.com.stockoutlierdetection.model.DataPoint;
-
 /**
  * Represents an outliers in the stock price dataset.
  */
